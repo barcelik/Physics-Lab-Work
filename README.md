@@ -6,7 +6,7 @@ This repository contains several physics projects completed during lab sessions 
 
 ## Projects overview
 
-### Fluid Mechanics – Bénard–von Kármán Vortex Street
+### Fluid Mechanics – Bénard–von Kármán vortex street
 
 **File:** `rapport-fluid-mechanics.pdf`
 
