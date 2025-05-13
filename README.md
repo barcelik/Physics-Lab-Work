@@ -12,7 +12,6 @@ This repository contains several physics projects completed during lab sessions 
 
 This project investigates the numerical modeling of the Bénard–von Kármán instability — the formation of alternating vortices in the wake of a bluff body subject to fluid flow. The study uses the finite element method to solve the Navier–Stokes equations in confined geometries. By varying the Reynolds number, the transition from stable flow to vortex shedding is captured, and the influence of confinement on the critical instability threshold is analyzed.
 
----
 
 ### Thermal conduction in particle systems
 
@@ -23,7 +22,6 @@ This project investigates the numerical modeling of the Bénard–von Kármán i
 
 This project models a gas of hard spheres bouncing in a square box to simulate heat conduction between a hot and cold wall. The kinetic energy of particles is adjusted upon collision with the thermal walls, inducing a density gradient. The thermal conductivity λ is computed from energy flux measurements. The study explores how λ depends on particle number and size, and investigates the effect of a large, heavy intruder particle on mobility and energy transfer.
 
----
 
 ### Quantum harmonic oscillator – MATLAB simulation
 
@@ -31,7 +29,6 @@ This project models a gas of hard spheres bouncing in a square box to simulate h
 
 This project focuses on the numerical solution of the confined quantum harmonic oscillator using a basis of infinite square well eigenstates. The goal is to compute and analyze the energy eigenvalues and eigenfunctions numerically and compare them with analytical results. The study shows how the harmonic potential influences the system’s spectrum and eigenstates as the matrix size increases.
 
----
 
 ### Solving the 2D Poisson equation
 
@@ -55,3 +52,11 @@ This work involves solving the 2D Poisson equation, relevant in electrostatics, 
 ---
 
 All reports are written in French.
+
+---
+
+## Author
+
+**Baran CELIK**  
+3rd year engineering student – ESPCI Paris – PSL University  
+2022-2024
