@@ -42,11 +42,3 @@ This work involves solving the 2D Poisson equation, relevant in electrostatics, 
 ---
 
 All reports are written in French.
-
----
-
-## Author
-
-**Baran CELIK**  
-Engineering student – ESPCI Paris – PSL University  
-2022-2024
