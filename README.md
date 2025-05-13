@@ -48,5 +48,5 @@ All reports are written in French.
 ## Author
 
 **Baran CELIK**  
-3rd year engineering student – ESPCI Paris – PSL University  
+Engineering student – ESPCI Paris – PSL University  
 2022-2024
