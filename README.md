@@ -41,16 +41,6 @@ This work involves solving the 2D Poisson equation, relevant in electrostatics, 
 
 ---
 
-## Tools & Languages
-
-- Python
-- MATLAB
-- Finite element method
-- Jupyter notebooks
-- PDF reports
-
----
-
 All reports are written in French.
 
 ---
